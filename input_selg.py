@@ -2,8 +2,11 @@
 
 #Ordrestørrelse
 #Ordrestørrelse %
-#Risk ordre %
-#Risk av total %
+#Risiko
+#Risiko ordre %
+#Risiko av total %
+#Ordrepris
+#Antall
 
 
 #Input fra bruker
